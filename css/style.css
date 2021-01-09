@@ -774,6 +774,7 @@ ul.footer__social{
     }
     .heaber__top-inner{
         align-items: center;
+        padding-bottom: 23px;
     }
     .header__title{
         font-size: 50px;
